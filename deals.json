@@ -5,7 +5,8 @@
   "weirdDeals" : [
     {
       "name" : "Nothing", 
-      "description" : "What do you get for the person who has everything? Nothing — literally. It also comes in different colors so hurry before supplies last.",
+      "description" : "What do you get for the person who has everything? Nothing — literally."
+      "It also comes in different colors so hurry before supplies last.",
       "price" : "$6.98", 
       "options" : [
         "Blue nothing", 
@@ -17,7 +18,7 @@
 
     {
       "name" : "30 pieces of fake garlic", 
-      "description" : "Take decorating with fake stuff to the next level with these fake garlic knobs.",
+      "description" : "Take decorating with fake stuff to the next level with these fake garlic knobs. Get these and your kitchen will never look the same again.",
       "price" : "$10.99", 
       "options" : [
         "White basket", 
@@ -29,7 +30,7 @@
 
     {
       "name" : "A horror movie sound maker",
-      "description" : "Surprise guests by making them think IT is hiding just around the corner. Mimics available:",
+      "description" : "Surprise guests by making them think IT is hiding just around the corner. You can make your own mimics:",
       "price" : "$299.00", 
       "options" : [
         "Get out", 
