@@ -1,12 +1,11 @@
 {
-  "companyName" : "Weird Deals Inc.",
+  "companyName" : "Weird Deals Gazette",
   "headOffice" : "Esanbe Hanakita Kojima",
   "established" : 1818, 
-  "active" : true,
   "weirdDeals" : [
     {
       "name" : "Nothing", 
-      "description" : "What do you get for the person who has everything? Nothing — literally.",
+      "description" : "What do you get for the person who has everything? Nothing — literally. It also comes in different colors so hurry before supplies last.",
       "price" : "$6.98", 
       "options" : [
         "Blue nothing", 
@@ -30,7 +29,7 @@
 
     {
       "name" : "A horror movie sound maker",
-      "description" : "Surprise guests by making them think IT is hiding just around the corner.",
+      "description" : "Surprise guests by making them think IT is hiding just around the corner. Mimics available:",
       "price" : "$299.00", 
       "options" : [
         "Get out", 
@@ -42,7 +41,7 @@
 
     {
       "name" : "A pizza hut", 
-      "description" : "Indulge in everyone's life-long desire of wearing pizza atop their head.",
+      "description" : "Indulge in everyone's life-long desire of wearing pizza atop their head. Beware the sprinkled parmesan as you nod or shake your head, though — some might mistake it for dandruff.",
       "price" : "$11.62", 
       "options" : [
         "Cheddar cheese", 
@@ -54,7 +53,7 @@
 
     {
       "name" : "A USB fridge", 
-      "description" : "Enjoy a cold one with one (1) single refrigerated beverage at your fingertips.",
+      "description" : "Enjoy a cold one with one, single refrigerated beverage at your fingertips. Top selling colors are:",
       "price" : "$38.00", 
       "options" : [
         "Red", 
