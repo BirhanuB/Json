@@ -41,7 +41,7 @@
 
     {
       "name" : "A pizza hut", 
-      "description" : "Indulge in everyone's life-long desire of wearing pizza atop their head. Beware of the sprinkled parmesan as you nod or shake your head, though — some might mistake it for dandruff.",
+      "description" : "Indulge in everyone's life-long desire of wearing pizza atop their head. Beware of the sprinkled parmesan as you nod or shake your head though — some might mistake it for dandruff.",
       "price" : "$11.62", 
       "options" : [
         "Cheddar cheese", 
