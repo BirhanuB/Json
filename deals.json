@@ -1,67 +1,67 @@
 {
-"companyName" : "Weird Deals Inc.",
-"headOffice" : "Esanbe Hanakita Kojima",
-"established" : 1818, 
-"active" : true,
-"weirdDeals" : [
-  {
-    "name" : "Nothing", 
-    "description" : "What do you get for the person who has everything? Nothing — literally.",
-    "Price" : "$6.98", 
-    "Options" : [
-      "Blue nothing", 
-      "White nothing", 
-      "Green nothing" 
-    ],
-    "image" : "nothing.jpg"
-  },
+  "companyName" : "Weird Deals Inc.",
+  "headOffice" : "Esanbe Hanakita Kojima",
+  "established" : 1818, 
+  "active" : true,
+  "weirdDeals" : [
+    {
+      "name" : "Nothing", 
+      "description" : "What do you get for the person who has everything? Nothing — literally.",
+      "Price" : "$6.98", 
+      "Options" : [
+        "Blue nothing", 
+        "White nothing", 
+        "Green nothing" 
+      ],
+      "image" : "nothing.jpg"
+    },
 
-  {
-    "name" : "30 pieces of fake garlic", 
-    "description" : "Take decorating with fake stuff to the next level with these fake garlic knobs.",
-    "Price" : "$10.99", 
-    "Options" : [
-      "White basket", 
-      "Grey basket", 
-      "Orange basket" 
-    ],
-    "image": "garlic.jpg"
-  },
-  
-  {
-    "name" : "A horror movie sound maker",
-    "description" : "Surprise guests by making them think IT is hiding just around the corner.",
-    "Price" : "$299.00", 
-    "Options" : [
-      "Get out", 
-      "A quiet place", 
-      "Psycho"     
-    ],
-    "image" : "sound.jpg"
-  },
+    {
+      "name" : "30 pieces of fake garlic", 
+      "description" : "Take decorating with fake stuff to the next level with these fake garlic knobs.",
+      "Price" : "$10.99", 
+      "Options" : [
+        "White basket", 
+        "Grey basket", 
+        "Orange basket" 
+      ],
+      "image": "garlic.jpg"
+    },
+    
+    {
+      "name" : "A horror movie sound maker",
+      "description" : "Surprise guests by making them think IT is hiding just around the corner.",
+      "Price" : "$299.00", 
+      "Options" : [
+        "Get out", 
+        "A quiet place", 
+        "Psycho"     
+      ],
+      "image" : "sound.jpg"
+    },
 
-  {
-    "name" : "A pizza hut", 
-    "description" : "Indulge in everyone's life-long desire of wearing pizza atop their head.",
-    "Price" : "$11.62", 
-    "Options" : [
-      "Cheddar cheese", 
-      "Parmesan cheese", 
-      "Mozzarella cheese" 
-    ],
-    "image": "pizzahut.jpg"
-  },
+    {
+      "name" : "A pizza hut", 
+      "description" : "Indulge in everyone's life-long desire of wearing pizza atop their head.",
+      "Price" : "$11.62", 
+      "Options" : [
+        "Cheddar cheese", 
+        "Parmesan cheese", 
+        "Mozzarella cheese" 
+      ],
+      "image": "pizzahut.jpg"
+    },
 
-  {
-    "name" : "A desktop refrigerator", 
-    "description" : "Enjoy a cold one with one (1) single refrigerated beverage at your fingertips.",
-    "Price" : "$38.00", 
-    "Options" : [
-      "Red", 
-      "Silver", 
-      "Yellow" 
-    ],
-    "image": "fridge.jpg"
-  }
-]
+    {
+      "name" : "A desktop refrigerator", 
+      "description" : "Enjoy a cold one with one (1) single refrigerated beverage at your fingertips.",
+      "Price" : "$38.00", 
+      "Options" : [
+        "Red", 
+        "Silver", 
+        "Yellow" 
+      ],
+      "image": "fridge.jpg"
+    }
+  ]
 }
