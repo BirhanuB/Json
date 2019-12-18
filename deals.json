@@ -5,7 +5,7 @@
   "weirdDeals" : [
     {
       "name" : "Nothing", 
-      "description" : "What do you get for the person who has everything? Nothing — literally. But unlike traditional nothing, this one will cost you almost $7. It comes in different colors so hurry before supplies last.",
+      "description" : "What do you get for the person who has everything? Nothing — literally. But unlike traditional nothings, this one will cost you almost $7. It comes in different colors so hurry before supplies last.",
       "price" : "$6.98", 
       "options" : [
         "Blue nothing", 
@@ -17,7 +17,7 @@
 
     {
       "name" : "30 pieces of fake garlic", 
-      "description" : "Take decorating with fake stuff to the next level with these fake garlic knobs. Get these and your kitchen will never look the same again.",
+      "description" : "Take decorating with fake stuff to the next level with these fake garlic knobs. Get these and your kitchen will never look the same again. They come in:",
       "price" : "$10.99", 
       "options" : [
         "White basket", 
@@ -29,7 +29,7 @@
 
     {
       "name" : "A horror movie sound maker",
-      "description" : "Surprise guests by making them think IT is hiding just around the corner. You can make your own mimics too.",
+      "description" : "Surprise guests by making them think IT is hiding just around the corner. You can make your own mimics too. For inspiration, please watch:",
       "price" : "$299.00", 
       "options" : [
         "Get out", 
@@ -41,7 +41,7 @@
 
     {
       "name" : "A pizza hut", 
-      "description" : "Indulge in everyone's life-long desire of wearing pizza atop their head. Beware of the sprinkled parmesan as you nod or shake your head though — some might mistake it for dandruff.",
+      "description" : "Indulge in everyone's life-long desire of wearing pizza atop their head. Beware of the sprinkled parmesan as you nod or shake your head though — some might mistake it for dandruff. We have the cheese:",
       "price" : "$11.62", 
       "options" : [
         "Cheddar cheese", 
